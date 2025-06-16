@@ -1,7 +1,7 @@
 # Copyright 2022 Moduon Team S.L.
 # License LGPL-3.0 or later (https://www.gnu.org/licenses/lgpl.html).
 {
-    "name": "hussien",
+    "name": "hussien  Siad",
     "summary": "Add configurable sequence to account moves, per journal",
     "version": "16.0.2.0.2",
     "category": "Accounting/Accounting",
